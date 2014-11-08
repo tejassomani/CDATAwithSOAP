@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item>
+		<name>xyz</name>
+		<id>1</id>
+		<desc>New Item</desc>
+		<accountdetails><![CDATA[account data]]></accountdetails>
+	</item>
+	<item>
+		<name>xyz1</name>
+		<id>2</id>
+		<desc>New Item1</desc>
+		<accountdetails><![CDATA[another account]]></accountdetails>
+	</item>
+</items>
